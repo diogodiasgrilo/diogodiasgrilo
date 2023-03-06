@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diogo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋🏽, I'm Diogo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">a passionate learner and aspiring AI developer</h3>
 
 - 🔭 I’m currently prepping to start 42 coding school in April.
