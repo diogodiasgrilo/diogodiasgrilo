@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Diogo <img height="100" src="https://emoji.gg/assets/emoji/7841_EeveeVibe.gif"></h1>
 <h3 align="center">a passionate learner and aspiring AI developer</h3>
 
-- 🔭 I’m currently prepping to start 42 coding school Lisbon in April.
+- 🔭 I’m currently a student at 42 Lisbon.
 
 - 🌱 I’m currently learning C and Python.
 
