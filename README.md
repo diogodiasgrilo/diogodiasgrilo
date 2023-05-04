@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Diogo <img height="100" src="https://emoji.gg/assets/emoji/7841_EeveeVibe.gif"></h1>
-<h3 align="center">a passionate learner and aspiring AI developer</h3>
+<h3 align="center">a passionate learner and aspiring AI/Cybersecurity developer</h3>
 
 - 🔭 I’m currently a student at 42 Lisbon.
 
