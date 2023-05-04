@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a student at 42 Lisbon.
 
-- 🌱 I’m currently learning C, C++, and Python.
+- 🌱 I’m currently studying C, C++, and Python.
 
 - 📫 How to reach me: diogodiasgrilo@gmail.com
 
