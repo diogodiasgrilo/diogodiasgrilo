@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Diogo <img height="100" src="https://emoji.gg/assets/emoji/7841_EeveeVibe.gif"></h1>
+<h1 align="center">Hi 👋🏽, I'm Diogo <!-- <img height="100" src="https://emoji.gg/assets/emoji/7841_EeveeVibe.gif"> --> </h1>
 <h3 align="center">a passionate learner and aspiring programmer</h3>
 
 - 🔭 I’m currently a student at 42 Lisbon.
