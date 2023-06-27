@@ -15,7 +15,7 @@
     
     - 📫 How to reach me: diogodiasgrilo@gmail.com
     
-    - ⚡ What I like to do: coding all day, laughing with friends, finding solutions to complicated problems and traveling the world.
+    - ⚡ What I like to do: coding all day, finding solutions to complicated problems and traveling the world.
     
 </div>
 
