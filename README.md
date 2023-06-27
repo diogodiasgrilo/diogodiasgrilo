@@ -9,7 +9,12 @@
 
 - ⚡ What I like to do: code all day, laughing with friends and travelling the world.
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/stats?cursusId=21&coalitionId=112" alt="diogpere's 42 stats" /></a>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <a href="https://github.com/JaeSeoKim/badge42">
+        <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/stats?cursusId=21&coalitionId=112" alt="diogpere's 42 stats" />
+    </a>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
