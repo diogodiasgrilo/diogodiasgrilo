@@ -1,23 +1,111 @@
 <h1 align="center">Hi 👋🏽, I'm Diogo <!-- <img height="100" src="https://emoji.gg/assets/emoji/7841_EeveeVibe.gif"> --> </h1>
 <h3 align="center">a passionate learner and aspiring programmer</h3>
 
-- 🔭 I’m currently a student at 42 Lisbon.
-
-- 🌱 I’m currently studying C, C++, and Python.
-
-- 📫 How to reach me: diogodiasgrilo@gmail.com
-
-- ⚡ What I like to do: code all day, laughing with friends and travelling the world.
-
 <div align="center">
     <a href="https://github.com/JaeSeoKim/badge42">
         <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/stats?cursusId=21&coalitionId=112" alt="diogpere's 42 stats" />
     </a>
 </div>
 
+<div align="left">
+    
+    - 🔭 I’m currently a student at 42 Lisbon.
+    
+    - 🌱 I’m currently studying C, C++, and Python.
+    
+    - 📫 How to reach me: diogodiasgrilo@gmail.com
+    
+    - ⚡ What I like to do: code all day, laughing with friends and traveling the world.
+    
+</div>
+
+<h3 align="center">Projects accomplished so far</h3>
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <h4 align="left">Libft</h4>
+      <a href="https://github.com/JaeSeoKim/badge42">
+        <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3062416" alt="diogpere's 42 Libft Score" />
+      </a>
+    </td>
+    <td>
+      <h4 align="left">Ft_printf</h4>
+      <a href="https://github.com/JaeSeoKim/badge42">
+        <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3064714" alt="diogpere's 42 ft_printf Score" />
+      </a>
+    </td>
+    <td>
+      <h4 align="left">Get_next_line</h4>
+        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3065656"                 alt="diogpere's 42 get_next_line Score" /></a>
+    </td>
+    <td>
+      <h4 align="left">Born2beroot</h4>
+        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3070473"                 alt="diogpere's 42 Born2beroot Score" /></a>
+    </td>
+    <td>
+      <h4 align="left">Exam Rank 02</h4>
+        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3071105"                 alt="diogpere's 42 Exam Rank 02 Score" /></a>
+    </td>
+    <td>
+      <h4 align="left">Push_swap</h4>
+        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3074867"                 alt="diogpere's 42 push_swap Score" /></a>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+    <tr>
+        <td>
+            <h4 align="left">So_long</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3085312"                 alt="diogpere's 42 so_long Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">Philosophers</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3092068"                 alt="diogpere's 42 Philosophers Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">Exam Rank 03</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3094452"                 alt="diogpere's 42 Exam Rank 03 Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">Minishell</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3106281"                 alt="diogpere's 42 minishell Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">NetPractice</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112176"                 alt="diogpere's 42 NetPractice Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">Pipex</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3082715"                 alt="diogpere's 42 pipex Score" /></a>
+        </td>
+    </tr>
+</table>
+
+<table style="width:100%">
+    <tr>
+        <td>
+            <h4 align="left">Exam Rank 04</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112221"                 alt="diogpere's 42 Exam Rank 04 Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">Cub3d</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3131153"                 alt="diogpere's 42 cub3d Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">CPP00</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3134393"                 alt="diogpere's 42 CPP Module 00 Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">CPP01</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3135034"                 alt="diogpere's 42 CPP Module 01 Score" /></a>
+        </td>
+    </tr>
+</table>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-dias-b838231a4/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/made2travel/)
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro) -->
