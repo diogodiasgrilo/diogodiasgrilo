@@ -101,6 +101,14 @@
             <h4 align="left">CPP01</h4>
             <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3135034"                 alt="diogpere's 42 CPP Module 01 Score" /></a>
         </td>
+        <td>
+            <h4 align="left">CPP02</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3138178"                 alt="diogpere's 42 CPP Module 02 Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">CPP03</h4>
+            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3138579"                 alt="diogpere's 42 CPP Module 03 Score" /></a>
+        </td>
     </tr>
 </table>
 
