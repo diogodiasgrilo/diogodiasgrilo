@@ -41,8 +41,8 @@
     </td>
     <td>
       <h4 align="left">Born2beroot</h4>
-        <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3070473" alt="diogpere's 42                 
-        Born2beroot Score" /></a>
+        <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3070473" alt="diogpere's 42                 
+        Born2beroot Score" />
     </td>
     <td>
       <h4 align="left">Exam Rank 02</h4>
