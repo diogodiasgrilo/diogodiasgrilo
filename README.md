@@ -31,25 +31,27 @@
     </td>
     <td>
       <h4 align="left">Ft_printf</h4>
-      <a href="https://github.com/JaeSeoKim/badge42">
+      <a href="https://github.com/diogodiasgrilo/Ft_Printf_42">
         <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3064714" alt="diogpere's 42 ft_printf Score" />
       </a>
     </td>
     <td>
       <h4 align="left">Get_next_line</h4>
-        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3065656"                 alt="diogpere's 42 get_next_line Score" /></a>
+        <a href="https://github.com/diogodiasgrilo/Gnl_42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3065656"                 alt="diogpere's 42 get_next_line Score" /></a>
     </td>
     <td>
       <h4 align="left">Born2beroot</h4>
-        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3070473"                 alt="diogpere's 42 Born2beroot Score" /></a>
+        <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3070473" alt="diogpere's 42                 
+        Born2beroot Score" /></a>
     </td>
     <td>
       <h4 align="left">Exam Rank 02</h4>
-        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3071105"                 alt="diogpere's 42 Exam Rank 02 Score" /></a>
+        <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3071105" alt="diogpere's 42 Exam Rank 02 Score" />            </a>
     </td>
     <td>
       <h4 align="left">Push_swap</h4>
-        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3074867"                 alt="diogpere's 42 push_swap Score" /></a>
+        <a href="https://github.com/diogodiasgrilo/Push_Swap_42"><img                                                                         
+       src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3074867" alt="diogpere's 42 push_swap Score" /></a>
     </td>
   </tr>
 </table>
@@ -57,29 +59,33 @@
 <table style="width:100%">
     <tr>
         <td>
+            <h4 align="left">Pipex</h4>
+            <a href="https://github.com/diogodiasgrilo/Pipex_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3082715" alt="diogpere's 42 pipex Score" /></a>
+        </td>
+        <td>
             <h4 align="left">So_long</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3085312"                 alt="diogpere's 42 so_long Score" /></a>
+            <a href="https://github.com/diogodiasgrilo/So_long_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3085312" alt="diogpere's 42 so_long Score" /></a>
         </td>
         <td>
             <h4 align="left">Philosophers</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3092068"                 alt="diogpere's 42 Philosophers Score" /></a>
+            <a href="https://github.com/diogodiasgrilo/Philosophers_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3092068" alt="diogpere's 42 Philosophers Score" /></a>
         </td>
         <td>
             <h4 align="left">Exam Rank 03</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3094452"                 alt="diogpere's 42 Exam Rank 03 Score" /></a>
+            <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3094452" alt="diogpere's 42                                    Exam Rank 03 Score" /></a>
         </td>
         <td>
             <h4 align="left">Minishell</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3106281"                 alt="diogpere's 42 minishell Score" /></a>
+            <a href="https://github.com/MM1212/minishell"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3106281"                 alt="diogpere's 42 minishell Score" /></a>
         </td>
         <td>
             <h4 align="left">NetPractice</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112176"                 alt="diogpere's 42 NetPractice Score" /></a>
-        </td>
-        <td>
-            <h4 align="left">Pipex</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3082715"                 alt="diogpere's 42 pipex Score" /></a>
-        </td>
+            <a href="https://github.com/diogodiasgrilo/NetPratice_42"><img                 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112176" alt="diogpere's 42 NetPractice Score" /></a>
+            </td>
     </tr>
 </table>
 
@@ -87,27 +93,32 @@
     <tr>
         <td>
             <h4 align="left">Exam Rank 04</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112221"                 alt="diogpere's 42 Exam Rank 04 Score" /></a>
+            <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112221" alt="diogpere's 42 Exam Rank 04 Score"             /></a>
         </td>
         <td>
             <h4 align="left">Cub3d</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3131153"                 alt="diogpere's 42 cub3d Score" /></a>
+            <a href="https://github.com/diogodiasgrilo/Cub3d_42"><img             
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3131153" alt="diogpere's 42 cub3d Score" /></a>
         </td>
         <td>
             <h4 align="left">CPP00</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3134393"                 alt="diogpere's 42 CPP Module 00 Score" /></a>
+            <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img         
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3134393" alt="diogpere's 42 CPP Module 00 Score" /></a>
         </td>
         <td>
             <h4 align="left">CPP01</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3135034"                 alt="diogpere's 42 CPP Module 01 Score" /></a>
+            <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3135034" alt="diogpere's 42 CPP Module 01 Score" /></a>
         </td>
         <td>
             <h4 align="left">CPP02</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3138178"                 alt="diogpere's 42 CPP Module 02 Score" /></a>
+            <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3138178" alt="diogpere's 42 CPP Module 02 Score" /></a>
         </td>
         <td>
             <h4 align="left">CPP03</h4>
-            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3138579"                 alt="diogpere's 42 CPP Module 03 Score" /></a>
+            <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3138579" alt="diogpere's 42 CPP Module 03 Score" /></a>
         </td>
     </tr>
 </table>
