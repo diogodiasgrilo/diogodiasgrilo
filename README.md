@@ -11,7 +11,7 @@
     
     - 🔭 I’m currently a student at 42 Lisbon.
     
-    - 🌱 I’m currently studying C, C++, and Python.
+    - 🌱 I’m currently studying C, C++, Python, and Docker.
     
     - 📫 How to reach me: diogodiasgrilo@gmail.com
     
