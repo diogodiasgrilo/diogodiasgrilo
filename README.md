@@ -19,7 +19,7 @@
     
 </div>
 
-<h3 align="center">Projects accomplished so far</h3>
+<h3 align="center">My 42 school projects:</h3>
 
 <table style="width:100%">
   <tr>
