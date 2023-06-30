@@ -15,7 +15,7 @@
     
     - 📫 How to reach me: diogodiasgrilo@gmail.com
     
-    - ⚡ What I like to do: coding all day, finding solutions to complicated problems and traveling the world.
+    - ⚡ What I like to do: coding all day, finding solutions to complicated problems, and traveling the world.
     
 </div>
 
@@ -25,7 +25,7 @@
   <tr>
     <td>
       <h4 align="left">Libft</h4>
-      <a href="https://github.com/JaeSeoKim/badge42">
+      <a href="https://github.com/diogodiasgrilo/Libft_42">
         <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3062416" alt="diogpere's 42 Libft Score" />
       </a>
     </td>
