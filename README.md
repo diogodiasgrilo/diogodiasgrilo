@@ -41,12 +41,13 @@
     </td>
     <td>
       <h4 align="left">Born2beroot</h4>
-        <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3070473" alt="diogpere's 42                 
-        Born2beroot Score" />
+        <a href="https://github.com/diogodiasgrilo"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3070473"         
+        alt="diogpere's 42 Born2beroot Score" /></a>
     </td>
     <td>
       <h4 align="left">Exam Rank 02</h4>
-        <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3071105" alt="diogpere's 42 Exam Rank 02 Score" />            </a>
+        <a href="https://github.com/diogodiasgrilo"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3071105"     
+        alt="diogpere's 42 Exam Rank 02 Score" /></a>
     </td>
     <td>
       <h4 align="left">Push_swap</h4>
@@ -75,7 +76,8 @@
         </td>
         <td>
             <h4 align="left">Exam Rank 03</h4>
-            <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3094452" alt="diogpere's 42                                    Exam Rank 03 Score" /></a>
+            <a href="https://github.com/diogodiasgrilo"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3094452"     
+            alt="diogpere's 42 Exam Rank 03 Score" /></a>
         </td>
         <td>
             <h4 align="left">Minishell</h4>
@@ -93,7 +95,8 @@
     <tr>
         <td>
             <h4 align="left">Exam Rank 04</h4>
-            <a href=""><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112221" alt="diogpere's 42 Exam Rank 04 Score"             /></a>
+            <a href="https://github.com/diogodiasgrilo"><img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3112221" 
+            alt="diogpere's 42 Exam Rank 04 Score"/></a>
         </td>
         <td>
             <h4 align="left">Cub3d</h4>
