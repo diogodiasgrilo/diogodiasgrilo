@@ -138,6 +138,16 @@
             <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img     
             src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3144083" alt="diogpere's 42 CPP Module 05 Score" /></a>
         </td>
+        <td>
+            <h4 align="left">CPP06</h4>
+            <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3146009" alt="diogpere's 42 CPP Module 06 Score" /></a>
+        </td>
+        <td>
+            <h4 align="left">CPP07</h4>
+            <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img 
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3147802" alt="diogpere's 42 CPP Module 07 Score" /></a>
+        </td>
     </tr>
 </table>
 
