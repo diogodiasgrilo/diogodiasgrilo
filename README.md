@@ -15,7 +15,7 @@
     
     - 📫 How to reach me: diogodiasgrilo@gmail.com
 
-    - 🌍 Where I'm from: I was born in Lisbon, Portugal but my family immigrated to Vancouver, Canada when I was 13.
+    - 🌍 Where I'm from: I was born in Lisbon, Portugal, but my family immigrated to Vancouver, Canada when I was 13.
     
     - ⚡ What I like to do: coding all day, finding solutions to complicated problems, and traveling the world.
     
