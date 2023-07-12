@@ -148,6 +148,11 @@
             <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img 
             src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3147802" alt="diogpere's 42 CPP Module 07 Score" /></a>
         </td>
+        <td>
+            <h4 align="left">CPP08</h4>
+            <a href="https://github.com/diogodiasgrilo/CPP00_to_CPP09_42"><img     
+            src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/project/3154068" alt="diogpere's 42 CPP Module 08 Score" /></a>
+        </td>
     </tr>
 </table>
 
