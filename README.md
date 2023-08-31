@@ -158,6 +158,7 @@
     </tr>
 </table>
 -->
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-dias-b838231a4/" onclick="window.open(this.href,'_blank'); return false;">
