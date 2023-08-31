@@ -157,6 +157,7 @@
         </td>
     </tr>
 </table>
+-->
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-dias-b838231a4/" onclick="window.open(this.href,'_blank'); return false;">
@@ -172,7 +173,6 @@
   <a href="https://twitter.com/brantlauro" onclick="window.open(this.href,'_blank'); return false;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
   </a>
-  -->
   <a href="mailto:produtor.diogodiasgrilo@gmail.com" onclick="window.open(this.href,'_blank'); return false;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
