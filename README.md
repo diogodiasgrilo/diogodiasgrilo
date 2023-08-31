@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Diogo <!-- <img height="100" src="https://emoji.gg/assets/emoji/7841_EeveeVibe.gif"> --> </h1>
 <h3 align="center">a passionate learner and aspiring machine/deep learning engineer</h3>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/JaeSeoKim/badge42">
         <img src="https://badge42.vercel.app/api/v2/clje6kj09004408moe7dytvgi/stats?cursusId=21&coalitionId=112" alt="diogpere's 42 stats" />
     </a>
-</div>
+</div> -->
 
 <div align="left">
     
@@ -20,9 +20,7 @@
     - ⚡ What I like to do: coding all day, finding solutions to complicated problems, and traveling the world.
     
 </div>
-
-<h3 align="center">My 42 school projects:</h3>
-
+<!-- <h3 align="center">My 42 school projects:</h3>
 <table style="width:100%">
   <tr>
     <td>
@@ -58,7 +56,6 @@
     </td>
   </tr>
 </table>
-
 <table style="width:100%">
     <tr>
         <td>
@@ -92,7 +89,6 @@
             </td>
     </tr>
 </table>
-
 <table style="width:100%">
     <tr>
         <td>
@@ -127,7 +123,6 @@
         </td>
     </tr>
 </table>
-
 <table style="width:100%">
     <tr>
         <td>
@@ -162,7 +157,6 @@
         </td>
     </tr>
 </table>
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-dias-b838231a4/" onclick="window.open(this.href,'_blank'); return false;">
@@ -213,7 +207,8 @@
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
   </a> 
-</p>
+</p> 
+-->
 
 
 ------
