@@ -9,9 +9,9 @@
 
 <div align="left">
     
-    - 🔭 I’m currently a student at 42 Lisbon.
+    - 🔭 I’m currently a Data Engineer at Liberty Global in the United Kingdom.
     
-    - 🌱 I’m currently studying C++, Python, TensorFlow, and PyTorch.
+    - 🌱 I’m currently studying Google Cloud Platform, Python, TensorFlow, and PyTorch.
     
     - 📫 How to reach me: diogodiasgrilo@gmail.com
 
