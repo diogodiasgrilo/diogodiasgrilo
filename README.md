@@ -11,7 +11,7 @@
     
     - 🔭 I’m currently a Data Engineer at Liberty Global in the United Kingdom.
     
-    - 🌱 I’m currently studying Google Cloud Platform, Python, TensorFlow, and PyTorch.
+    - 🌱 I’m currently studying Generative AI, Google Cloud Platform, Python, TensorFlow, and PyTorch.
     
     - 📫 How to reach me: diogodiasgrilo@gmail.com
 
